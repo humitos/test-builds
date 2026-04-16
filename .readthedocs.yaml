@@ -1,7 +1,7 @@
 version: 2
 
 build:
-  os: ubuntu-lts-latest  # triggering by commit message -- try again 2
+  os: ubuntu-lts-latest  # triggering by commit message -- shouldn't trigger
   tools:
     python: latest
 
